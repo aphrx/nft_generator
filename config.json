@@ -1,0 +1,29 @@
+{
+  "layers": [
+    {
+      "name": "body",
+      "probability": 1,
+      "options": [{ "type": "standard.png", "probability": 1 }]
+    },
+    {
+      "name": "beanie",
+      "probability": 0.5,
+      "options": [{ "type": "standard.png", "probability": 1 }]
+    },
+    {
+        "name": "collar",
+        "probability": 0.5,
+        "options": [{ "type": "standard.png", "probability": 1 }]
+      },
+      {
+        "name": "glasses",
+        "probability": 0.5,
+        "options": [{ "type": "standard.png", "probability": 1 }]
+      },
+      {
+        "name": "shirt",
+        "probability": 0.5,
+        "options": [{ "type": "standard.png", "probability": 1 }]
+      }
+  ]
+}
